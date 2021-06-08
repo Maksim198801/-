@@ -1,3 +1,5 @@
-a=5
-b=bin(a)
-print(a,b)
+>>> a=0b100
+>>> b=bin(a)
+>>> print(a, b)
+4 0b100
+>>>
